@@ -1,0 +1,21 @@
+{
+    "name": "linhuan/roc_ad_date_convert",
+    "description": "ROC AD Date convert",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RocAdDateConvert\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bill"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "10.5.x-dev"
+    },
+    "version": "1.0.0"
+}
